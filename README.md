@@ -37,5 +37,15 @@ $ terraform show
 
 <img width="840" alt="image" src="https://github.com/tencentcloudstack/terraform-oob-example/assets/13725630/b203786b-1400-4e12-afbc-530f8c7246ef">
 
+### More
+- for more information, please see the documentation: 
+
+[TencentCloud Provider](https://registry.terraform.io/providers/tencentcloudstack/tencentcloud/latest/docs)
+
+
+- To destroy the resource you have created, please run:
+```sh
+$ terraform destroy
+```
 
 have fun~
