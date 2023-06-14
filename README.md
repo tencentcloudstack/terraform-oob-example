@@ -24,7 +24,9 @@ $ terraform apply
 
 
 #### input `yes` to confirm the creation operation
+
 Wait for a while to finish the creation...
+
 <img width="546" alt="image" src="https://github.com/tencentcloudstack/terraform-oob-example/assets/13725630/e025cc4e-af15-429d-b4d6-f92aa7c34b07">
 
 
